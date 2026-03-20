@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kowalski Z13_html</title>
+<link href="roma_z13.css" rel="stylesheet" type="text/CSS">
+</head>
+<body>
+Autor: Jan Zastawny klasa 2W<br>
+mój numer z dziennika to 7<br>
+znacznik body ---> 2-kolor silver, wielkość liter 15mm<br>
+wypisz: znacznik p ---> 8-kolor fuchsia, wielkość liter 14mm
+<p>:) - uśmiech</p>
+<p>.C - duży smutek</p>
+<p>:P - pokazanie języka</p>
+<p>:O - zdziwienie</p>
+<p>;) - sceptycyzm</p>
+<p>:( - brak emocji</p>
+</body>
+</html>
+<!-- Kowalski Z13_html -->
+/* Kowalski Z13_html */
+body {
+    color: silver;
+    font-size: 15mm;
+}
+
+p {
+    color: fuchsia;
+    font-size: 14mm;
+}
